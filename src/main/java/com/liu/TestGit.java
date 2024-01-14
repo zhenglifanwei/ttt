@@ -6,7 +6,5 @@ public class TestGit {
         System.out.println("hello test branch");
         System.out.println("zaici gengxin");
 
-        System.out.println("ceshi commit");
-
     }
 }
